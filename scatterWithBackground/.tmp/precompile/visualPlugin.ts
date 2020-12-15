@@ -7,7 +7,7 @@ var powerbi: any = window[powerbiKey];
 
 var scatterWithBackgroundBB85772C6CF74D3F8C26B389403E2C62_DEBUG: IVisualPlugin = {
     name: 'scatterWithBackgroundBB85772C6CF74D3F8C26B389403E2C62_DEBUG',
-    displayName: 'scatterWithBackground',
+    displayName: 'Scatter+',
     class: 'Visual',
     apiVersion: '2.6.0',
     create: (options: VisualConstructorOptions) => {
