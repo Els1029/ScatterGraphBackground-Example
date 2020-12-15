@@ -4,6 +4,16 @@
             "displayName": "Measure",
             "name": "measure",
             "kind": "Measure"
+        },
+        {
+            "displayName": "X Axis",
+            "name": "xAxis",
+            "kind": "Measure"
+        },
+        {
+            "displayName": "Y Axis",
+            "name": "yAxis",
+            "kind": "Measure"
         }
     ],
     "dataViewMappings": [
